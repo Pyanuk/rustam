@@ -1,0 +1,14 @@
+C:\Users\rhali\source\repos\Rustam\Rustam\bin\Debug\net6.0\Rustam.exe
+C:\Users\rhali\source\repos\Rustam\Rustam\bin\Debug\net6.0\Rustam.deps.json
+C:\Users\rhali\source\repos\Rustam\Rustam\bin\Debug\net6.0\Rustam.runtimeconfig.json
+C:\Users\rhali\source\repos\Rustam\Rustam\bin\Debug\net6.0\Rustam.dll
+C:\Users\rhali\source\repos\Rustam\Rustam\bin\Debug\net6.0\Rustam.pdb
+C:\Users\rhali\source\repos\Rustam\Rustam\obj\Debug\net6.0\Rustam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhali\source\repos\Rustam\Rustam\obj\Debug\net6.0\Rustam.AssemblyInfoInputs.cache
+C:\Users\rhali\source\repos\Rustam\Rustam\obj\Debug\net6.0\Rustam.AssemblyInfo.cs
+C:\Users\rhali\source\repos\Rustam\Rustam\obj\Debug\net6.0\Rustam.csproj.CoreCompileInputs.cache
+C:\Users\rhali\source\repos\Rustam\Rustam\obj\Debug\net6.0\Rustam.dll
+C:\Users\rhali\source\repos\Rustam\Rustam\obj\Debug\net6.0\refint\Rustam.dll
+C:\Users\rhali\source\repos\Rustam\Rustam\obj\Debug\net6.0\Rustam.pdb
+C:\Users\rhali\source\repos\Rustam\Rustam\obj\Debug\net6.0\Rustam.genruntimeconfig.cache
+C:\Users\rhali\source\repos\Rustam\Rustam\obj\Debug\net6.0\ref\Rustam.dll
